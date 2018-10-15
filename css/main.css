@@ -38,7 +38,6 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-/* not working */
 [rel="external"] {
   background-color: #2694d8;
 }
