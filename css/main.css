@@ -41,14 +41,17 @@ h2 {
   background-color: #b58900;
 }
 
-.dfn > strong {
+/*  not working */
+p + strong {
   color: #fff;
 }
 
+/* dont understand how */
 a {
   background-color: #719e07;
 }
 
+/* not working */
 rel="external" {
   background-color: #2694d8;
 }
