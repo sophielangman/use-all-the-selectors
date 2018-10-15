@@ -37,7 +37,7 @@ nav ul {
 }
 
 h2 {
-  color: #93a1a1
+  color: #93a1a1;
 }
 
 .wrapper > .dfn {
@@ -52,7 +52,7 @@ a {
   background-color: #719e07;
 }
 
-rel="external {
+rel="external" {
   background-color: #2694d8;
 }
 
